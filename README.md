@@ -20,12 +20,11 @@ Open the terminal on MacOS/Linux; Open Git Bash on Windows(If you don't have Git
 
 Method 1: Install via GitHub script
 ```bash
-bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) af47b519a73043e49b2a2bbe7467b54b
-
+bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) 6E9F43AB-6AF6-4167-AF0E-A4C22CBC7C0A
 ```
 Method 2: Install via Gitee script
 ```bash
-bash <(curl -Lk https://gitee.com/kingparks/cursor-vip/releases/download/latest/ic.sh) af47b519a73043e49b2a2bbe7467b54b
+bash <(curl -Lk https://gitee.com/kingparks/cursor-vip/releases/download/latest/ic.sh) 6E9F43AB-6AF6-4167-AF0E-A4C22CBC7C0A
 ```
 Method 3: Manually download the binary file
 > download the binary file for the corresponding operating system from the [release](https://github.com/kingparks/cursor-vip/releases) page
